@@ -29,7 +29,7 @@ Por favor [submeta](https://github.com/devmatogrosso/submit) para o nosso reposi
 
 # Comes e Bebes
 
-É importante esclarecer que em alguns Meetups vamos disponibilizar comes e bebes, porém infelizmente não é sempre que a comunidade tem essa possibilidade, sendo solicitada antes do evento àqueles que possam colaborar com o lanche comunitário.
+É importante esclarecer que em alguns encontros da comunidade serão disponibilizados comes e bebes, porém infelizmente não é sempre que há essa possibilidade, sendo solicitado antes do evento a colaboração com um lanche comunitário, sendo esta facultativa.
 
 
 
